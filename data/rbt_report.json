@@ -1,0 +1,498 @@
+[
+ {
+   "year": 2008,
+   "state": "NSW",
+   "rbtConducted": "4,204,525",
+   "rbtPositive": "27,368",
+   "bacAbove": 58,
+   "deathBacAbove": 78
+ },
+ {
+   "year": 2009,
+   "state": "NSW",
+   "rbtConducted": "4,440,862",
+   "rbtPositive": "26,595",
+   "bacAbove": 68,
+   "deathBacAbove": 94
+ },
+ {
+   "year": 2010,
+   "state": "NSW",
+   "rbtConducted": "4,637,033",
+   "rbtPositive": "24,411",
+   "bacAbove": 48,
+   "deathBacAbove": 74
+ },
+ {
+   "year": 2011,
+   "state": "NSW",
+   "rbtConducted": "4,520,010",
+   "rbtPositive": "22,117",
+   "bacAbove": 52,
+   "deathBacAbove": 70
+ },
+ {
+   "year": 2012,
+   "state": "NSW",
+   "rbtConducted": "4,735,462",
+   "rbtPositive": "19,982",
+   "bacAbove": 44,
+   "deathBacAbove": 56
+ },
+ {
+   "year": 2013,
+   "state": "NSW",
+   "rbtConducted": "5,153,136",
+   "rbtPositive": "20,193",
+   "bacAbove": 46,
+   "deathBacAbove": 53
+ },
+ {
+   "year": 2014,
+   "state": "NSW",
+   "rbtConducted": "5,916,338",
+   "rbtPositive": "19,531",
+   "bacAbove": 34,
+   "deathBacAbove": 50
+ },
+ {
+   "year": 2015,
+   "state": "NSW",
+   "rbtConducted": "6,117,884",
+   "rbtPositive": "18,750",
+   "bacAbove": 36,
+   "deathBacAbove": 45
+ },
+ {
+   "year": 2016,
+   "state": "NSW",
+   "rbtConducted": "4,908,582",
+   "rbtPositive": "17,442",
+   "bacAbove": 41,
+   "deathBacAbove": 59
+ },
+ {
+   "year": 2017,
+   "state": "NSW",
+   "rbtConducted": "4,898,088",
+   "rbtPositive": "18,022",
+   "bacAbove": 42,
+   "deathBacAbove": 55
+ },
+ {
+   "year": 2018,
+   "state": "NSW",
+   "rbtConducted": "5,538,320",
+   "rbtPositive": "17,989",
+   "bacAbove": 46,
+   "deathBacAbove": 64
+ },
+ {
+   "year": 2008,
+   "state": "Qld",
+   "rbtConducted": "2,883,056",
+   "rbtPositive": "26,975",
+   "bacAbove": 58,
+   "deathBacAbove": 88
+ },
+ {
+   "year": 2009,
+   "state": "Qld",
+   "rbtConducted": "3,098,664",
+   "rbtPositive": "32,696",
+   "bacAbove": 49,
+   "deathBacAbove": 70
+ },
+ {
+   "year": 2010,
+   "state": "Qld",
+   "rbtConducted": "3,199,185",
+   "rbtPositive": "33,638",
+   "bacAbove": 41,
+   "deathBacAbove": 50
+ },
+ {
+   "year": 2011,
+   "state": "Qld",
+   "rbtConducted": "3,369,995",
+   "rbtPositive": "27,264",
+   "bacAbove": 39,
+   "deathBacAbove": 56
+ },
+ {
+   "year": 2012,
+   "state": "Qld",
+   "rbtConducted": "3,483,717",
+   "rbtPositive": "25,320",
+   "bacAbove": 34,
+   "deathBacAbove": 45
+ },
+ {
+   "year": 2013,
+   "state": "Qld",
+   "rbtConducted": "3,696,689",
+   "rbtPositive": "25,291",
+   "bacAbove": 51,
+   "deathBacAbove": 64
+ },
+ {
+   "year": 2014,
+   "state": "Qld",
+   "rbtConducted": "3,887,768",
+   "rbtPositive": "23,023",
+   "bacAbove": 26,
+   "deathBacAbove": 43
+ },
+ {
+   "year": 2015,
+   "state": "Qld",
+   "rbtConducted": "3,574,901",
+   "rbtPositive": "20,357",
+   "bacAbove": 43,
+   "deathBacAbove": 57
+ },
+ {
+   "year": 2016,
+   "state": "Qld",
+   "rbtConducted": "3,411,115",
+   "rbtPositive": "18,673",
+   "bacAbove": 37,
+   "deathBacAbove": 46
+ },
+ {
+   "year": 2017,
+   "state": "Qld",
+   "rbtConducted": "2,766,038",
+   "rbtPositive": "16,489",
+   "bacAbove": 45,
+   "deathBacAbove": 63
+ },
+ {
+   "year": 2018,
+   "state": "Qld",
+   "rbtConducted": "2,666,717",
+   "rbtPositive": "16,658",
+   "bacAbove": 31,
+   "deathBacAbove": 43
+ },
+ {
+   "year": 2008,
+   "state": "SA",
+   "rbtConducted": "661,839",
+   "rbtPositive": "10,467",
+   "bacAbove": 21,
+   "deathBacAbove": 39
+ },
+ {
+   "year": 2009,
+   "state": "SA",
+   "rbtConducted": "716,186",
+   "rbtPositive": "10,954",
+   "bacAbove": 28,
+   "deathBacAbove": 43
+ },
+ {
+   "year": 2010,
+   "state": "SA",
+   "rbtConducted": "731,645",
+   "rbtPositive": "10,172",
+   "bacAbove": 21,
+   "deathBacAbove": 28
+ },
+ {
+   "year": 2011,
+   "state": "SA",
+   "rbtConducted": "604,722",
+   "rbtPositive": "10,034",
+   "bacAbove": 13,
+   "deathBacAbove": 20
+ },
+ {
+   "year": 2012,
+   "state": "SA",
+   "rbtConducted": "542,219",
+   "rbtPositive": "9,267",
+   "bacAbove": 14,
+   "deathBacAbove": 19
+ },
+ {
+   "year": 2013,
+   "state": "SA",
+   "rbtConducted": "525,003",
+   "rbtPositive": "8,890",
+   "bacAbove": 15,
+   "deathBacAbove": 23
+ },
+ {
+   "year": 2014,
+   "state": "SA",
+   "rbtConducted": "554,882",
+   "rbtPositive": "8,154",
+   "bacAbove": 14,
+   "deathBacAbove": 15
+ },
+ {
+   "year": 2015,
+   "state": "SA",
+   "rbtConducted": "563,224",
+   "rbtPositive": "8,208",
+   "bacAbove": 13,
+   "deathBacAbove": 13
+ },
+ {
+   "year": 2016,
+   "state": "SA",
+   "rbtConducted": "529,440",
+   "rbtPositive": "5,155",
+   "bacAbove": 9,
+   "deathBacAbove": 9
+ },
+ {
+   "year": 2017,
+   "state": "SA",
+   "rbtConducted": "591,574",
+   "rbtPositive": "6,007",
+   "bacAbove": 15,
+   "deathBacAbove": 22
+ },
+ {
+   "year": 2018,
+   "state": "SA",
+   "rbtConducted": "519,770",
+   "rbtPositive": "4,997",
+   "bacAbove": 10,
+   "deathBacAbove": 12
+ },
+ {
+   "year": 2008,
+   "state": "Tas",
+   "rbtConducted": "678,140",
+   "rbtPositive": "4,563",
+   "bacAbove": 9,
+   "deathBacAbove": 13
+ },
+ {
+   "year": 2009,
+   "state": "Tas",
+   "rbtConducted": "613,945",
+   "rbtPositive": "5,120",
+   "bacAbove": 11,
+   "deathBacAbove": 16
+ },
+ {
+   "year": 2010,
+   "state": "Tas",
+   "rbtConducted": "606,991",
+   "rbtPositive": "3,895",
+   "bacAbove": 1,
+   "deathBacAbove": 4
+ },
+ {
+   "year": 2011,
+   "state": "Tas",
+   "rbtConducted": "559,854",
+   "rbtPositive": "3,527",
+   "bacAbove": 2,
+   "deathBacAbove": 3
+ },
+ {
+   "year": 2012,
+   "state": "Tas",
+   "rbtConducted": "550,354",
+   "rbtPositive": "2,916",
+   "bacAbove": 3,
+   "deathBacAbove": 5
+ },
+ {
+   "year": 2013,
+   "state": "Tas",
+   "rbtConducted": "551,444",
+   "rbtPositive": "2,782",
+   "bacAbove": 2,
+   "deathBacAbove": 2
+ },
+ {
+   "year": 2014,
+   "state": "Tas",
+   "rbtConducted": "475,510",
+   "rbtPositive": "2,585",
+   "bacAbove": 1,
+   "deathBacAbove": 5
+ },
+ {
+   "year": 2015,
+   "state": "Tas",
+   "rbtConducted": "469,610",
+   "rbtPositive": "2,327",
+   "bacAbove": 2,
+   "deathBacAbove": 2
+ },
+ {
+   "year": 2016,
+   "state": "Tas",
+   "rbtConducted": "512,906",
+   "rbtPositive": "2,322",
+   "bacAbove": 4,
+   "deathBacAbove": 7
+ },
+ {
+   "year": 2017,
+   "state": "Tas",
+   "rbtConducted": "462,344",
+   "rbtPositive": "2,070",
+   "bacAbove": 6,
+   "deathBacAbove": 8
+ },
+ {
+   "year": 2018,
+   "state": "Tas",
+   "rbtConducted": "450,715",
+   "rbtPositive": "1,723",
+   "bacAbove": 5,
+   "deathBacAbove": 6
+ },
+ {
+   "year": 2008,
+   "state": "NT ",
+   "rbtConducted": "111,662",
+   "rbtPositive": "9,460",
+   "bacAbove": 10,
+   "deathBacAbove": 14
+ },
+ {
+   "year": 2009,
+   "state": "NT ",
+   "rbtConducted": "159,374",
+   "rbtPositive": "10,990",
+   "bacAbove": 9,
+   "deathBacAbove": 14
+ },
+ {
+   "year": 2010,
+   "state": "NT ",
+   "rbtConducted": "181,626",
+   "rbtPositive": "10,842",
+   "bacAbove": 15,
+   "deathBacAbove": 17
+ },
+ {
+   "year": 2011,
+   "state": "NT ",
+   "rbtConducted": "176,358",
+   "rbtPositive": "8,914",
+   "bacAbove": 8,
+   "deathBacAbove": 13
+ },
+ {
+   "year": 2012,
+   "state": "NT ",
+   "rbtConducted": "167,667",
+   "rbtPositive": "9,332",
+   "bacAbove": 10,
+   "deathBacAbove": 16
+ },
+ {
+   "year": 2013,
+   "state": "NT ",
+   "rbtConducted": "156,719",
+   "rbtPositive": "12,395",
+   "bacAbove": 4,
+   "deathBacAbove": 7
+ },
+ {
+   "year": 2014,
+   "state": "NT ",
+   "rbtConducted": "175,914",
+   "rbtPositive": "13,562",
+   "bacAbove": 7,
+   "deathBacAbove": 15
+ },
+ {
+   "year": 2015,
+   "state": "NT ",
+   "rbtConducted": "181,843",
+   "rbtPositive": "14,192",
+   "bacAbove": 6,
+   "deathBacAbove": 16
+ },
+ {
+   "year": 2016,
+   "state": "NT ",
+   "rbtConducted": "171,618",
+   "rbtPositive": "7,571",
+   "bacAbove": 12,
+   "deathBacAbove": 18
+ },
+ {
+   "year": 2017,
+   "state": "NT ",
+   "rbtConducted": "199,016",
+   "rbtPositive": "7,846",
+   "bacAbove": 4,
+   "deathBacAbove": 4
+ },
+ {
+   "year": 2018,
+   "state": "NT ",
+   "rbtConducted": "143,408",
+   "rbtPositive": "7,672",
+   "bacAbove": 7,
+   "deathBacAbove": 16
+ },
+ {
+   "year": 2012,
+   "state": "ACT",
+   "rbtConducted": "90,817",
+   "rbtPositive": "1,418",
+   "bacAbove": 0,
+   "deathBacAbove": 2
+ },
+ {
+   "year": 2013,
+   "state": "ACT",
+   "rbtConducted": "129,577",
+   "rbtPositive": "1,399",
+   "bacAbove": 2,
+   "deathBacAbove": 3
+ },
+ {
+   "year": 2014,
+   "state": "ACT",
+   "rbtConducted": "147,552",
+   "rbtPositive": "1,267",
+   "bacAbove": 1,
+   "deathBacAbove": 1
+ },
+ {
+   "year": 2015,
+   "state": "ACT",
+   "rbtConducted": "121,416",
+   "rbtPositive": "1,134",
+   "bacAbove": 1,
+   "deathBacAbove": 1
+ },
+ {
+   "year": 2016,
+   "state": "ACT",
+   "rbtConducted": "116,490",
+   "rbtPositive": "1,005",
+   "bacAbove": 1,
+   "deathBacAbove": 1
+ },
+ {
+   "year": 2017,
+   "state": "ACT",
+   "rbtConducted": "88,929",
+   "rbtPositive": "1,057",
+   "bacAbove": 0,
+   "deathBacAbove": 0
+ },
+ {
+   "year": 2018,
+   "state": "ACT",
+   "rbtConducted": "89,989",
+   "rbtPositive": "1,114",
+   "bacAbove": 1,
+   "deathBacAbove": 1
+ }
+]

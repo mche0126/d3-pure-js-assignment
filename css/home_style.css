@@ -1,0 +1,126 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+    margin: auto;
+}
+
+header{
+    height: 100vh;
+    background-size: contain;
+    background-position: center center;
+    position: relative;
+}
+
+div.annotation {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: auto;
+    height: auto;
+  }
+
+
+annotation {
+    color: black;
+    text-align: end;
+    size: 8sp;
+    opacity: 0.5;
+}
+
+div.selection {
+    position: absolute;
+    top: 33%;
+    bottom: 10%;
+    left: 24%;
+    right: 24%;
+}
+
+div.tabs{
+    position: relative;
+    border:solid 3px #000;
+    margin: 3%;
+    width: 40%;
+    height:90%;
+    float: left;
+    background-color: #666;
+    transition: transform ease 1s;
+    text-align: center;
+}
+
+.tabs:hover {
+    transform: translateY(-20px)
+}
+
+.tabs:hover tab-name{
+    color: #fff;
+}
+
+
+.tabs img{
+    height: 93%;
+    width: 100%;
+    float: inline-start;
+}
+
+.tabs tab-name {
+    color: #000;
+    text-transform: uppercase;
+    font-family: 'Righteous', cursive;
+    margin-top: 40%;
+}
+
+.tabs a{
+    text-decoration: none;
+}
+
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-area li{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px  20px;
+    font-family:'Squada One', cursive;
+    font-size: 14px;
+    background-color: #555;
+    opacity: 0.8;
+}
+
+.nav-area li a:hover{
+    background-color: white;
+    color: #444;
+}
+
+.logo img{
+    width: 70px;
+    float: left;
+    height: auto;
+    margin: 20px;
+}
+
+.welcome-text{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.welcome-text h1{
+    text-align: center;
+    color: #000;
+    text-transform: uppercase;
+    font-family: 'Sigmar One', cursive;
+}

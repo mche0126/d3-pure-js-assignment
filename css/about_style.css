@@ -1,0 +1,82 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+    margin: auto;
+}
+
+header{
+    background-image: url("../images/main_page_backgroud.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.logo img{
+    width: 70px;
+    float: left;
+    height: auto;
+    margin: 20px;
+}
+
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-area li{
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px  10px;
+    font-family: 'Squada One', cursive;
+    font-size: 14px;
+    background-color: #555;
+    opacity: 0.8;
+}
+
+.nav-area li a:hover{
+    background-color: white;
+    color: #444;
+}
+
+div.about {
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.image {
+    float: left;
+    width: 450px;
+    position: relative;
+    padding: 20px;
+}
+
+div.image img{
+    padding-top: 20px;
+    max-width: 90%;
+    margin-left: 20px;
+}
+
+div.text {
+    position: relative;
+    text-align: justify;
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+    width: calc(100% - 570px);
+    height: inherit;
+}
+
+

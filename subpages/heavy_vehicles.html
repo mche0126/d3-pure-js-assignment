@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIT5147 Visualisation Project - Heavy Vehicles</title>
+    <link rel="stylesheet" href="../css/heavy_vehicles_style.css">
+
+    <!-- import google online fonts -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+    </style>
+    <!-- import d3 -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+    <!-- import jquery -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+    <!-- Range slider code from online source-->
+    <script src="https://cdn.rawgit.com/RasmusFonseca/d3RangeSlider/master/d3RangeSlider.js"></script>
+    <!-- Range slider style from online source-->
+    <link href="https://cdn.rawgit.com/RasmusFonseca/d3RangeSlider/master/d3RangeSlider.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <!-- div box with page background -->
+        <div class = "wrapper">
+            <!-- logo -->
+            <div class = "logo">
+                <img src="../images/project_logo.png">
+            </div>
+
+            <!-- navigation list -->
+            <ul class="nav-area">
+                <li><a href="../Visualization project.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="heavy_vehicles.html">Relavant Vehicles</a></li>
+                <li><a href="victim_group.html">Victim Group</a></li>
+                <!-- <li><a href="#">Speed Limit</a></li>
+                <li><a href="#">Breath Test</a></li> -->
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        
+        <div class="title">
+            <h1>Related Heavy Vehicles</h1>
+        </div>
+        <!-- map -->
+        <svg id="map" width="600" height="550"></svg>
+
+        <!-- slider -->
+        <div id = "slider">
+            <h3>Year Range</h3>
+            <br>
+            <div style="background: white; height: 10px; ">
+                <div id="slider-container" ></div>
+            </div>
+            <br><br>
+            <div id="range-label">1989 - 2021</div>
+        </div>
+
+        <!-- check box -->
+        <div id="checkbox-container">
+            <h3>Involved Heavy Vehicles</h3>
+            <br>
+            <input type="checkbox" id="bus-checkbox"> Bus
+		    <br>
+            <input type="checkbox" id="heavy-rigid-checkbox"> Heavy Rigid Truck
+		    <br>
+            <input type="checkbox" id="articulated-checkbox"> Articulated Truck
+		    <br>
+        </div>
+
+        <!-- line chart container -->
+        <div id="line-chart"></div>
+
+        <div><h3 id="line-chart-title">National Incident Number Chart</h3></div>
+    </header>
+
+    <!-- scripts -->
+    <script src="../js/heavy_vehicle.js">
+    
+    </script>
+
+</body>
